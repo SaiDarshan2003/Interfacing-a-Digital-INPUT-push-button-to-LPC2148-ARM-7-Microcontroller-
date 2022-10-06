@@ -1,8 +1,8 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
-Name : S.Sham Rathan
-Roll no : 212221230093 
+Name :G Sai Darshan<br>
+Roll no : 212221240047
 
-Date of experiment :      
+Date of experiment :      <br>
 Ex. No. : 3
  
 ### Aim: 
