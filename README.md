@@ -144,9 +144,9 @@ int main(void)
 ```
 
 ### Output screen shots :
-![1](a.png)
-![2](b.png)
-![3](c.png)
+![1](1.png)
+![2](2.png)
+![3](3.png)
 
 ### Result :
 Interfacing a digital output with ARM microcontroller is executed 
