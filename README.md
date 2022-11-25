@@ -1,7 +1,7 @@
 # Interfacing a Digital INPUT push button to LPC2148 ARM7 Microcontroller
-Name :G Sai Darshan
-Roll no : 212221240047
-Date of experiment : 9/8/22 
+Name :G Sai Darshan<br>
+Roll no : 212221240047<br>
+Date of experiment : 9/8/22<br>
 ### Aim: 
 To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
 ### Components required:
